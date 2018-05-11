@@ -13,7 +13,8 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_toStartOf="@+id/pause"
-        android:text="► " />
+        android:text="► "
+        />
 
     <Button
         android:id="@+id/pause"
